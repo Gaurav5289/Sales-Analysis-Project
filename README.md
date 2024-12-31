@@ -4,14 +4,14 @@ Overview
 This project involves cleaning, transforming, and analyzing a raw sales dataset to uncover meaningful insights. The workflow includes the use of Excel, Python, and Power BI to perform data cleaning, generate insights, and create an interactive dashboard for visualization.
 
 Objectives
-Clean and transform raw sales data using Python and Excel.
-Perform exploratory data analysis (EDA) to derive key insights.
-Visualize the cleaned data using Power BI with a single, interactive dashboard.
+1.Clean and transform raw sales data using Python and Excel.
+2.Perform exploratory data analysis (EDA) to derive key insights.
+3.Visualize the cleaned data using Power BI with a single, interactive dashboard.
 
 Tools and Technologies
-Python: Used for automated data cleaning and transformation.
-Excel: Applied for manual cleaning steps like handling duplicates and initial analysis.
-Power BI: Created a dynamic dashboard for better understanding and decision-making.
+1.Python: Used for automated data cleaning and transformation.
+2.Excel: Applied for manual cleaning steps like handling duplicates and initial analysis.
+3.Power BI: Created a dynamic dashboard for better understanding and decision-making.
 
 
 Key Features

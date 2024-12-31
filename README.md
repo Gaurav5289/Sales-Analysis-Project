@@ -42,8 +42,7 @@
 | `cleaned_superstore_sales.csv` | CSV version of the cleaned dataset.              |
 | `cleaning_insights.txt`        | Key insights generated from the dataset.         |
 | `dashboard.pbix`               | Power BI dashboard file for visualization.       |
-| `cleaning_script.py`           | Python script for data cleaning and EDA.         |
-| `python_script_screenshot.png` | Screenshot of the Python cleaning script.        |
+| `Python_script.py`           | Python script for data cleaning and EDA.           |
 
 ---
 

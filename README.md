@@ -47,5 +47,3 @@
 
 ---
 
-### Power BI Dashboard
-![Power BI Dashboard]("C:\Users\hp\Downloads\sales_dashboard.png")

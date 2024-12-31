@@ -1,0 +1,3 @@
+Total Sales: 12642501.909880001
+Total Profit: 1469034.8212799998
+Average Profit Margin: 0.04743789106008728

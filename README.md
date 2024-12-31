@@ -1,31 +1,30 @@
-Sales Data Cleaning and Analysis Project:
-
-Overview
-This project involves cleaning, transforming, and analyzing a raw sales dataset to uncover meaningful insights. The workflow includes the use of Excel, Python, and Power BI to perform data cleaning, generate insights, and create an interactive dashboard for visualization.
-
-Objectives
-1.Clean and transform raw sales data using Python and Excel.
-2.Perform exploratory data analysis (EDA) to derive key insights.
-3.Visualize the cleaned data using Power BI with a single, interactive dashboard.
-
-Tools and Technologies
-1.Python: Used for automated data cleaning and transformation.
-2.Excel: Applied for manual cleaning steps like handling duplicates and initial analysis.
-3.Power BI: Created a dynamic dashboard for better understanding and decision-making.
-
-
-Key Features
-1. Data Cleaning (Python):
+🎯 Objectives
+Clean and preprocess raw sales data.
+Generate meaningful insights using exploratory data analysis (EDA).
+Create a visually impactful dashboard in Power BI for stakeholders.
+🛠 Tools & Technologies
+Python: Automated data cleaning and transformation.
+Excel: Initial data exploration and manual checks.
+Power BI: Dynamic dashboards for visualizing insights.
+🌟 Key Features
+🔍 Data Cleaning (Python):
 Removed duplicate rows.
-Handled missing values in both numeric and categorical columns.
-Standardized date formats.
-Added a calculated field: Profit Margin.
-Cleaned text columns for uniformity.
-2. Insights Generated:
-Total sales and profit.
-Average profit margin.
-Regional and category-wise sales performance.
-3. Dashboard (Power BI):
+Handled missing values in numeric and categorical columns.
+Standardized date formats for consistency.
+Added calculated fields like Profit Margin.
+📊 Insights Generated:
+Total sales, profit, and average profit margin.
+Sales trends by region, category, and priority.
+📈 Dashboard (Power BI):
 KPIs for sales, profit, and profit margin.
-Interactive charts for regional and category analysis.
+Interactive filters for region and category analysis.
 Time-series analysis of sales and shipping trends.
+📁 Project Files
+File Name	Description
+Raw_superstore_sales.xlsx	Raw dataset for cleaning and analysis.
+cleaned_superstore_sales.xlsx	Cleaned dataset after transformations.
+cleaned_superstore_sales.csv	CSV version of the cleaned dataset.
+cleaning_insights.txt	Key insights generated from the dataset.
+dashboard.pbix	Power BI dashboard file for visualization.
+cleaning_script.py	Python script for data cleaning and EDA.
+python_script_screenshot.png	Screenshot of the Python cleaning script.

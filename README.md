@@ -30,6 +30,7 @@
 - KPIs for sales, profit, and profit margin.
 - Interactive filters for region and category analysis.
 - Time-series analysis of sales and shipping trends.
+- link-"C:\Users\hp\Downloads\Sales_Dashboard.pbix"
 
 ---
 
@@ -45,4 +46,5 @@
 | `Python_script.py`           | Python script for data cleaning and EDA.           |
 
 ---
+
 
